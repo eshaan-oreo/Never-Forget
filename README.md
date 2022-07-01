@@ -8,13 +8,6 @@ $ npm install
 $ npm start
 ```
 
-or:
-
-```bash
-$ yarn
-$ yarn start
-```
-
 ## Available Scripts
 
 In the project directory, you can run:
